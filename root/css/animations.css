@@ -1,0 +1,17 @@
+@keyframes aparecer{
+0%{
+    opacity: 0;
+    transform: translateX(300px)
+}
+25%{
+    opacity: .25;
+}
+
+75%{
+    opacity:.75;
+}
+
+100%{
+    opacity:1;
+}
+}
